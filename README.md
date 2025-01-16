@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋! I'm Patricio Romero</h1>
+<h1 align="center">Hi 👋! I'm Patricio R.</h1>
 
 ###
 
-<p align="center">I'm mainly focused on <b>Python</b>  and <b>JavaScript</b> , but I'm always looking for new opportunities to learn new things.<br>I'm willing to collaborate on projects and help people in any programming language and problem that may arise.</p>
+<!-- <p align="center">I'm mainly focused on <b>Python</b>  and <b>JavaScript</b> , but I'm always looking for new opportunities to learn new things.<br>I'm willing to collaborate on projects and help people in any programming language and problem that may arise.</p> -->
+<p>si</p>
 
 ### <hr>
 
