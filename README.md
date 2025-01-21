@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   </p>
 
-  <!-- Sección de Estadísticas -->
+  <!-- Sección de Estadísticas (username) -->
   <h2>Estadísticas</h2>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;" align="center">
     <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=patooromero&show_icons=true&theme=dark&langs_count=2"
+        srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true&theme=dark&langs_count=2"
         media="(prefers-color-scheme: dark)"
       />
       <source
@@ -28,7 +28,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" alt="GitHub Stats" />
     </picture>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=patooromero&layout=compact&langs_count=8&card_width=320" alt="Top Langs" />
+      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=pattoor&layout=compact&langs_count=8&card_width=320" alt="Top Langs" />
     </a>
   </div>
 
