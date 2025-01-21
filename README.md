@@ -22,7 +22,7 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=patooromero&show_icons=true"
+        srcset="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=pattoor&show_icons=true" alt="GitHub Stats" />
@@ -44,8 +44,8 @@
     <br clear="both">
     
   <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="37"  alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="37" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="#" width="47" height="37"  alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" href="#" width="47" height="37" alt="gmail logo"  />
   </div>
   </div>
 
